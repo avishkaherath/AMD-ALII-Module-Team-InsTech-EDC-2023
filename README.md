@@ -1,5 +1,5 @@
 # IEEE-EDC-2023-Team-InsTech
- Design of the internal circuitry for an Advanced Motion Detector (AMD) module while adhering to specified features. The features include Sensitivity adjustment, Delay time adjustment, Trigger mode, Daylight adjustment, and Warning output.
+> Design of the internal circuitry for an Advanced Motion Detector (AMD) module while adhering to specified features. The features include Sensitivity adjustment, Delay time adjustment, Trigger mode, Daylight adjustment, and Warning output.
 
 Our team managed to secure the first place in the Electronic Design Competition 2023, organized by the IEEE Sri Lanka section.
 ## Final circuit
